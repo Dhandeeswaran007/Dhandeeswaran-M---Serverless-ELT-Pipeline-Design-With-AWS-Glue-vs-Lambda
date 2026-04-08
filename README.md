@@ -1,0 +1,2 @@
+# Dhandeeswaran-M---Serverless-ELT-Pipeline-Design-With-AWS-Glue-vs-Lambda
+AWS Glue is a fully managed ETL service that automates data preparation for analytics. It is designed for large-scale data processing and is particularly suited for handling complex transformations, including working with big data. It provides built-in features for data cataloging, job scheduling, and handling distributed workloads.
